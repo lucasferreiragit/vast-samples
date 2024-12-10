@@ -20,7 +20,7 @@
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <CompanionAds>
-                        <Companion id="1232" width="720" height="250" assetWidth="250" assetHeight="200" expandedWidth="720" expandedHeight="250">
+                        <Companion id="1232" width="300" height="250" assetWidth="250" assetHeight="200" expandedWidth="720" expandedHeight="250">
                                <StaticResource creativeType="image/png">
                                 <![CDATA[https://d343x6qscsp61h.cloudfront.net/sites/2/20240522105622/Audio-Comparison-Banner-02.png]]>
                                 </StaticResource>
