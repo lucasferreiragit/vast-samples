@@ -4,7 +4,6 @@
       <AdSystem>Adsystem Example</AdSystem>
       <AdTitle>VAST 2.0</AdTitle>
       <Description>VAST 2.0</Description>
-      <Error>http://myErrorURL/error</Error>
       <Impression>http://myTrackingURL/impression</Impression>
       <Creatives>
         <Creative AdID="12345">
