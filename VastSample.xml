@@ -33,7 +33,7 @@
       <CompanionAds>
            <Companion width="300" height="250">
              <StaticResource creativeType="image/jpeg">
-             http://demo.examplemedia.com/vast/this_is_the_ad.jpg
+             https://d343x6qscsp61h.cloudfront.net/sites/2/20240522105622/Audio-Comparison-Banner-02.png
              </StaticResource>
              <TrackingEvents>
                <Tracking event="creativeView">http://myTrackingURL/tracking</Tracking>
@@ -42,7 +42,7 @@
            </Companion>
            <Companion width="728" height="90">
              <StaticResource creativeType="image/jpeg">
-             http://demo.examplemedia.com/vast/trackingbanner
+             https://d343x6qscsp61h.cloudfront.net/sites/2/20240522105622/Audio-Comparison-Banner-02.png
              </StaticResource>
            <CompanionClickThrough>http://www.examplemedia.com</CompanionClickThrough>
            </Companion>
