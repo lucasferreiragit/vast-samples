@@ -78,7 +78,7 @@
       <CompanionAds>
            <Companion>
              <StaticResource creativeType="image/jpeg">
-                    https://tpc.googlesyndication.com/simgad/6238426956940795583
+                    https://raw.githubusercontent.com/lucasferreiragit/vast-samples/refs/heads/main/custom-companion.png
              </StaticResource>
              <TrackingEvents>
                <Tracking event="creativeView">http://myTrackingURL/tracking</Tracking>
