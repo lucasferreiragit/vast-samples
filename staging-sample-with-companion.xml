@@ -77,7 +77,7 @@
      <Creative AdID="601364-Companion">
       <CompanionAds>
            <Companion>
-             <StaticResource creativeType="image/jpeg">
+             <StaticResource creativeType="image/png">
                     https://raw.githubusercontent.com/lucasferreiragit/vast-samples/refs/heads/main/custom-companion.png
              </StaticResource>
              <TrackingEvents>
