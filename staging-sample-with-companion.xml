@@ -76,9 +76,9 @@
 </Creative>
      <Creative AdID="601364-Companion">
       <CompanionAds>
-           <Companion width="300" height="250">
+           <Companion >
              <StaticResource creativeType="image/jpeg">
-             https://d343x6qscsp61h.cloudfront.net/sites/2/20240522105622/Audio-Comparison-Banner-02.png
+                    https://tpc.googlesyndication.com/simgad/6238426956940795583
              </StaticResource>
              <TrackingEvents>
                <Tracking event="creativeView">http://myTrackingURL/tracking</Tracking>
