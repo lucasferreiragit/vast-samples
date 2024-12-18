@@ -85,12 +85,6 @@
              </TrackingEvents>
            <CompanionClickThrough>http://www.examplemedia.com</CompanionClickThrough>
            </Companion>
-           <Companion width="728" height="90">
-             <StaticResource creativeType="image/jpeg">
-             https://d343x6qscsp61h.cloudfront.net/sites/2/20240522105622/Audio-Comparison-Banner-02.png
-             </StaticResource>
-           <CompanionClickThrough>http://www.examplemedia.com</CompanionClickThrough>
-           </Companion>
          </CompanionAds>
        </Creative>
 </Creatives>
